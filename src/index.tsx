@@ -4,7 +4,7 @@ import Main from "./pages/Main";
 import NoPage from "./pages/NoPage";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import "./styles.css";
+import "./styles/main.sass";
 
 const rootElement = document.getElementById("root");
 const root = ReactDOMClient.createRoot(rootElement);
